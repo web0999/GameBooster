@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "version_code": 2,
-  "title": "Web3Gamer v2.0.0 Esports Update",
-  "changelog": "• BGMI 120 FPS GFX Tool\n• Floating Esports HUD with live preview\n• 1000MB+ RAM Purge Engine\n• CPU Overclocking support",
-  "download_url": "https://github.com/web0999/GameBooster/releases/download/v2.0.0/Web3Gamer-v2.0.0.apk"
+  "version": "2.1.0",
+  "version_code": 4,
+  "title": "Web3Gamer v2.1.0 Esports VIP Pro Update",
+  "changelog": "Upgraded to Esports VIP PRO: Uncapped Beast Mode 120/144 FPS, Pro GFX Presets with iPad View FOV 95°, customizable floating HUD themes & size, Touch 240Hz polling booster, and zero compiler warnings.",
+  "download_url": "http://10.99.32.155:8080/Web3Gamer-v2.1.0.apk"
 }
